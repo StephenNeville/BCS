@@ -1,0 +1,16 @@
+# Program will ask for two numbers and then add them and output result
+# Store in examples folder
+num1 = int(input("enter first number"))
+num2 = int(input("enter first number"))
+
+
+def add(n1, n2):    # n1 and n2 are paramenters of the function add(n1, n2)
+    sum = n1 + n2
+    #return sum      # you must return a value from a function
+
+
+# the variable result will hold the return value from the function
+result = add(num1 , num2)  # num1 and num2 are arguements being passed to function add(n1, n2)
+
+
+print( "The answer is: ", result)

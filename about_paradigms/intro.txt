@@ -1,0 +1,19 @@
+There are many different programming paradigms or ways of programming. 
+I am going to discuss 3 types:
+
+* procedural 
+* functional 
+* object oriented.
+
+Python can be programmed in any of these styles. It is effectively
+ a multiparadigm language. I will attempt to use program examples 
+which highlight key features of this programming styles
+
+
+"A paradigm is a way of doing something (like programming), not a 
+concrete thing (like a language). Now, it’s true that if a programming
+ language L happens to make a particular programming paradigm P easy to express, 
+then we often say “L is a P language” (e.g. “Haskell is a functional 
+programming language”) but that does not mean there is any such thing as a
+ “functional language paradigm”. 
+source: http://cs.lmu.edu/~ray/notes/paradigms/

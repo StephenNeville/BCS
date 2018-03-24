@@ -1,0 +1,29 @@
+Procedural programming:
+This type of programming is derived from structural 
+programming where large problems are decomposed in 
+to smaller sub-problems and each sub problem is 
+expressed as a procedure and each procedure can be 
+called from a main program.  Unlike imperative 
+programming, procedural programming relies on blocks 
+of code and scope of variables to make it easier to read 
+and debug.
+
+Modularity and reusabilty of code are important aspects
+of procedural programming.
+
+One key factor which differentiates procedural from 
+functional programming is side effects.
+Side effects: 
+A function is said to have a side effect if apart from 
+returning a value from the function it also does 
+something outside of its scope such as writing to a file 
+or printing a character to a screen.  Most programs need 
+to use side effects to make them practical.
+Changing the start of a value outside the scope of a 
+function can make programs difficult to maintain.
+We will look at some example of side effects to illustrate 
+these points.
+
+
+
+Sources: Wikipedia and stack overflow

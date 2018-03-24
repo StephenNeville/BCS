@@ -1,0 +1,20 @@
+Functional programming.
+This is a structured programming language and the main 
+difference between a functional and procedural 
+paradigm is that this type of programming attempts to 
+avoids side effects. It will tend to express programs as 
+pure functions. It relies heavily on first class functions. It 
+supports passing functions as arguments to other 
+functions and returning them as the values from other 
+functions. These values are assigned to variables or 
+stored to data structures.  In Python, MAP is an example 
+of a first class function which takes as its argument, a 
+function and a list, and returns a list formed by applying 
+the function to each member of the list.
+We will look at an example of a program using the MAP 
+function
+
+
+Source: Wikipedia
+
+
